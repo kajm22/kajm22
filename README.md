@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm a 16-year-old high school student from Japan.
+I love low-level programming, OS architecture, and indie games.
 
 <!--
 **kajm22/kajm22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
